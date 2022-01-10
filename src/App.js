@@ -11,16 +11,11 @@ class Chatapp extends PureComponent {
           <div className="mobile_top"></div>
             <div className="mobile_user">
               <div className="user_content">
-                {/* <i className="material-icons">chevron_left</i> */}
-                {/* <div className="material-icons">
-                  <img src="images/arrow-left-grey-white-navigation-arrow.png" alt="" height="3px"/>
-                </div> */}
                 <div className="user">
                   <img src="images/avatar.jpg" alt="" />
                   <h6>Samuel Green <br /><p>Available to Walk</p></h6>
                 </div>
               </div>
-              {/* <i className="material-icons">more_vert</i> */}
             </div>
             </div>
             
@@ -67,9 +62,6 @@ class Chatapp extends PureComponent {
               </ul>
                 <div className="buttonSubmit">
                 <input type="text" placeholder="Type a message..." />
-                {/* <button>
-              <i class="material-icons">chevron_right</i>
-            </button> */}
               </div>
             
 
