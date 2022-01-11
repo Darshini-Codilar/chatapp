@@ -1,5 +1,5 @@
 import { PureComponent } from "react";
-import './App.css';
+import './App.scss';
 
 class Chatapp extends PureComponent {
   render() {
